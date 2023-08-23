@@ -24,7 +24,7 @@ Here is a basic simulation model of such nonlinear laser amplifier that is built
 - **pyNLO** package<sup>see note</sup> : https://pynlo.readthedocs.io/en/latest/pynlo.html ; https://github.com/pyNLO/PyNLO
 - **pyfiberamp** package : https://pyfiberamp.readthedocs.io/en/latest/readme_link.html#download ; https://github.com/Jomiri/pyfiberamp
 
-The simulation process is illustrated below :
+The simulation process is illustrated below : 
 
 ![Simulation schematic](SimulationModel.jpg)
 
