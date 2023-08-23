@@ -44,5 +44,8 @@ Few modifications to the **pyNLO** package have been made
         `FREQS       = FREQS[:h]` <br>
         This in an alternate method named : `spectrogram_PG()`
 - **fiber.py** : Modification of the original `generate_fiber`method to test all array elements for gain, i.e. replace ` if gain == 0:` by ` if np.all(gain == 0]: ` . This in an alternate method named : `generate_fiber_PG()`
-- **SSPM.py** : Replace `np.float` by `float`
+- **SSPM.py** : Replace `np.float` by `float`  
+
+
+
   
